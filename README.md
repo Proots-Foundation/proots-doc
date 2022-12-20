@@ -42,10 +42,14 @@ provide API to let DAOs, other web3 service to create smart contract with genomi
 
 ### :scroll: Blueprint v1 :scroll:
 ![20221220 v1](https://shdw-drive.genesysgo.net/6WSW4N85PxPUFVrjB41vicn5ZqZRWA4SDuqtczAnjtLA/ppt_blueprint_v1.png)
-Github repository:
+
+**Github Repositories:**
 
 - [pRoots-clients](https://github.com/Proots-Foundation/proots-client-v1)
 - pRoots-genomics-contracts
 - [pRoots-cli-ipfs]()
 - [pRoots-ipfs-DAG-PLASMIDS]()
 - [pRoots-fvm-genomicscompute]()
+
+
+We follow [Code of Conduct](https://github.com/Proots-Foundation/proots-doc/blob/main/code-of-conduct.md) here to nurish a better developers or biolovers community.
