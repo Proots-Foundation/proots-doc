@@ -39,9 +39,14 @@ bridging the current open bio community such as global biocommunity, freegan, iG
 **Phase 3**
 provide API to let DAOs, other web3 service to create smart contract with genomic data request 
 
+### Cases and Functionality
+
+
 
 ### :scroll: Blueprint v1 :scroll:
 ![20221220 v1](https://shdw-drive.genesysgo.net/6WSW4N85PxPUFVrjB41vicn5ZqZRWA4SDuqtczAnjtLA/ppt_blueprint_v1.png)
+
+
 
 **Github Repositories:**
 
