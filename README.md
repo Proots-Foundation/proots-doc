@@ -41,6 +41,13 @@ provide API to let DAOs, other web3 service to create smart contract with genomi
 
 ### Cases and Functionality
 
+## :clock1: Project Milestone :clock1:
+- 2022/9  GR15
+  - Concept Phase/Social Medium/Idea Cooking
+- 2022/10-11 Gitcoin Social Hour
+  - [clients-v1](https://github.com/Proots-Foundation/proots-client-v1), data model proposed(IPLD schema DAG-PLASMID v1)
+- 2022/12 IPFS/Filecoin microgrant
+  - blueprint v1:propose client, command line tool, FVM for data computing
 
 
 ### :scroll: Blueprint v1 :scroll:
@@ -50,11 +57,16 @@ provide API to let DAOs, other web3 service to create smart contract with genomi
 
 **Github Repositories:**
 
-- [pRoots-clients](https://github.com/Proots-Foundation/proots-client-v1)
-- pRoots-genomics-contracts
-- [pRoots-cli-ipfs]()
-- [pRoots-ipfs-DAG-PLASMIDS]()
-- [pRoots-fvm-genomicscompute]()
+- Standalone frontend service for upload, edit, annotate, comment plasmid/genomic data [phase I]
+  - [pRoots-clients](https://github.com/Proots-Foundation/proots-client-v1)
+- ETH/L2 dApp for genomic data contract [phase II]
+  - pRoots-genomics-contracts
+- Command line tool for interacting plasmid data to IPFS under pRoots DAG-PLASMID schema design[phase I]
+  - [pRoots-cli-ipfs]()
+- Schema of DAG-PLASMID [phase I]
+  - [pRoots-ipfs-DAG-PLASMID]()
+- Using FVM for uploaded plasmid data computing/indexing [phase I]
+  - [pRoots-fvm-genomicscompute]()
 
 
 We follow [Code of Conduct](https://github.com/Proots-Foundation/proots-doc/blob/main/code-of-conduct.md) here to nurish a better developers or biolovers community.
