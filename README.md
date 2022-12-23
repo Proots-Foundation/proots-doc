@@ -65,7 +65,7 @@ provide API to let DAOs, other web3 service to create smart contract with genomi
   - [pRoots-cli-ipfs]()
 - Schema of DAG-PLASMID [phase I]
   - [pRoots-ipfs-DAG-PLASMID]()
-- Using FVM for uploaded plasmid data computing/indexing [phase I]
+- Using FVM for advanced data layouts [phase I]
   - [pRoots-fvm-genomicscompute]()
 
 
